@@ -14,5 +14,7 @@
 ![Alexis github stats](https://github-readme-stats.vercel.app/api?username=alexoreiro&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexoreiro&layout=compact)
 ## My TryHackMe Profile
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/your-username.png)](https://tryhackme.com/p/your-username)
+[![TryHackMe]((https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1029834 style='border:none))](https://tryhackme.com/p/alexoreiro)
+
+
 
