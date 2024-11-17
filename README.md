@@ -3,7 +3,7 @@
 ***I'm a software developer graduated from Holberton School Montevideo. I work on TCS as a Automation QE and I'm learning Cybersecurity.***
 
 - 📚 I’m currently learning Python, MySql, JavaScript & C.
-- 📚 I'm  also learning cybersecurity at Cisco and Tryhackme.
+- 📚 I'm  also learning cybersecurity at Cisco and Tryhackme. <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1029834" style='border:none;'></iframe>
 - 📫 How to reach me: @alexisoreiro on social media & alexis.oreiro@hotmail.com
 - ⚡ Fun fact: I'm also a football head coach FIFA Pro. ⚽
 
